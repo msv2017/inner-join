@@ -1,4 +1,4 @@
-exports = function () {
+module.exports = function () {
 	var cache = {};
 	var args = Array.prototype.slice.call(arguments, 0, -1);
 	var fn = Array.prototype.slice.call(arguments, -1)[0];
