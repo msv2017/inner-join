@@ -1,0 +1,19 @@
+{
+  "name": "inner-join",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msv2017/inner-join.git"
+  },
+  "author": "Martianov Sergii",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/msv2017/inner-join/issues"
+  },
+  "homepage": "https://github.com/msv2017/inner-join#readme"
+}
