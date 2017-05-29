@@ -11,7 +11,7 @@
     "url": "git+https://github.com/msv2017/inner-join.git"
   },
   "author": "Sergii M.",
-  "license": "GNU General Public License v3.0",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/msv2017/inner-join/issues"
   },
